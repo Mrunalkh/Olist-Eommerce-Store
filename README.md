@@ -11,12 +11,6 @@ Identify missing and duplicate values in each dataset and treat them accordingly
 Data Visualization:
 Create appropriate visualizations to identify the most ordered products by payment statistics and purchasing patterns.
 
-Market analysis:
-Identify combinations of average delivery days for product categories, calculate shipping days, and visualize them as required. This can be done by creating a custom column in the power query of Powerbi.
-
-Dashboarding and final PPT:
-create a neat dashboard containing the important visualizations and supplement it with an executive summary containing valuable insights and recommended steps of action.
-
 KPI's
 ✔ Weekday and weekend payment statistics
 ✔Payment Type with a review score of 5
@@ -41,10 +35,10 @@ The credit card payment method has consistently shown the highest payment amount
    For Market Place and Cool Stuff, it takes 12 days.
    And for the rest of the categories it takes 13 days.
 
- 5. Average price and payment value of Sao Paulo City
+ 4. Average price and payment value of Sao Paulo City
    The average Price is 108 and the Average Payment Value is 136 for Sao Paulo city.
 
- 6. Average shipping days vs review scores
+ 5. Average shipping days vs review scores
 This KPI analyzes the maximum delivery days that got the lowest review score and the minimum delivery days that got the highest review Score.
 Review Score 1 has 20 delivery days, and Review Score 5 has 11 delivery days.
 
